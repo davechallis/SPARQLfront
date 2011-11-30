@@ -5,6 +5,9 @@ It uses a modified version of [ARC2][1] (a nice PHP RDF library) for most of
 the functionality, [Skeleton][2] to provide the basic HTML and stylesheets, and
 [CodeMirror][3] to provide syntax highlighting for SPARQL.
 
+## Demo ##
+<http://sparql.data.southampton.ac.uk/sparqlfront/>
+
 ## Getting started ##
 Copy all of the SPARQLfront files into a directory that's visible on the web.
 
